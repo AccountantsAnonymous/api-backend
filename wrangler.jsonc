@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "api-backend",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "prod-d1-tutorial",
+			"database_id": "0ea56fd6-0a51-4fca-b235-12de9658f485"
+		}
+	]
+}
